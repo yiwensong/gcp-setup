@@ -1,1 +1,1 @@
-cp -r data/* ~
+cp -r data/.* ~
