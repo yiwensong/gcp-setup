@@ -187,3 +187,5 @@ colorscheme solarized
 " 
 map <ScrollWheelUp> <C-Y>
 map <ScrollWheelDown> <C-E>
+
+set directory^=$HOME/.vim/tmp//
